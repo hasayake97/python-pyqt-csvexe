@@ -3,7 +3,7 @@
 
 利用python进行对.csv文件的处理
 
-以及使用pyqt5框架实现可视化见面
+以及使用pyqt5框架实现GUI可视化
 
 由于打包exe所使用的pyinstaller版本太高的缘故
 
